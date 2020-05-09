@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jdselby24/hex-game/issues"
   },
-  "homepage": "https://github.com/jdselby24/hex-game#readme"
+  "homepage": "https://github.com/jdselby24/hex-game#readme",
+  "dependencies": {
+    "konva": "^6.0.0"
+  }
 }
